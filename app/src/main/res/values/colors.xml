@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#E6E6E6</color>
+    <color name="divider">#B8B8B8</color>
+    <color name="pressure_100">#F44336</color>
+    <color name="pressure_90">#DF5D3A</color>
+    <color name="pressure_80">#CA763E</color>
+    <color name="pressure_70">#B59042</color>
+    <color name="pressure_60">#A0A946</color>
+    <color name="pressure_50">#8BC34A</color>
+    <color name="pressure_40">#A2CB47</color>
+    <color name="pressure_30">#B9D344</color>
+    <color name="pressure_20">#D1DB41</color>
+    <color name="pressure_10">#E8E33E</color>
+    <color name="pressure_0">#FFEB3B</color>
+
+
+</resources>

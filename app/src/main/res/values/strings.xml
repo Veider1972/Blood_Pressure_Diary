@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Дневник здоровья</string>
+    <string name="pressure_divider">/</string>
+    <string name="high_pressure">Верхнее давление</string>
+    <string name="low_pressure">Нижнее давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="accept">Принять</string>
+    <string name="cancel">Отменить</string>
+    <string name="dialog_empty_hint">Выд должны заполнить все поля</string>
+    <string name="measure_added">Данные добавлены</string>
+    <string name="measure_add_error">Не удалось добавить данные</string>
+    <string name="measure_get_error">Не удалось получить данные</string>
+    <string name="empty_data">Данных пока нет</string>
+</resources>
