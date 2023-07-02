@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Blood Pressure Diary"
 include ':app'
+include ':app:data'
+include ':app:core'
+include ':app:usecases'
+include ':app:domain'

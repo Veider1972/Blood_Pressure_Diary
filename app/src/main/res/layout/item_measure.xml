@@ -59,7 +59,9 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/highPressure"
         tools:ignore="TextSizeCheck"
+        app:layout_constraintHorizontal_bias="0.3"
         tools:text="23:54" />
     <ImageView
         android:id="@+id/heartIcon"

@@ -11,4 +11,5 @@
     <string name="measure_add_error">Не удалось добавить данные</string>
     <string name="measure_get_error">Не удалось получить данные</string>
     <string name="empty_data">Данных пока нет</string>
+    <string name="add_data">Добавить измерение</string>
 </resources>
